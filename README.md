@@ -1,5 +1,5 @@
 <h1 align="center">I'm Pratap</h1>
-<h3 align="center">An AI/ML Enthusiast</h3>
+<h3 align="center">An AI/ML and Business Enthusiast</h3>
 
 - I'm a Data Scientist with a strong academic background, skilled in LLMs, optimizing ML models, and solving real-world problems with ML:
 - 📫 How to reach me **pratap.jadhav0@gmail.com**
