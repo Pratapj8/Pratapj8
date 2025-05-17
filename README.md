@@ -1,8 +1,8 @@
 <h1 align="center">I'm Pratap</h1>
 <h3 align="center">An AI/ML and Business Enthusiast</h3>
 
-- I'm a Data Scientist with a strong academic background, skilled in LLMs, optimizing ML models, and solving real-world problems with ML:
-- 📫 How to reach me **pratap.jadhav0@gmail.com**
+- I'm a Data Scientist with a strong academic background, skilled in Machine learnings, Python ,SQL and solving real-world problems with Algorithms:
+- 📫 Reach me @ **pratap.jadhav0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
