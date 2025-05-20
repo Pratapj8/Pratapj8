@@ -3,7 +3,7 @@
 
 - 🎓 I'm a Data Scientist with a strong academic foundation.
 - 🤖 Skilled in **Machine Learning**, **Python**, **SQL**, and turning real-world problems into algorithmic solutions.
-- 📫 Reach me at: **pratap.jadhav0@gmail.com**
+- 📫 Reach me at: <a href="mailto:pratap.jadhav0@gmail.com" target="_blank">pratap.jadhav0@gmail.com</a>
 
 ---
 
