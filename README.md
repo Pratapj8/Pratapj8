@@ -1,14 +1,9 @@
-readme_content = """
 <h1 align="center">Hi 👋, I'm Pratap Jadhav</h1>
 <h3 align="center">AI/ML Enthusiast | Business-Driven Data Scientist | Cloud & MLOps Explorer</h3>
 
 <p align="center">
-  <a href="mailto:pratap.jadhav0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-pratap.jadhav0@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/pratap-jadhav-162996173/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Pratap%20Jadhav-blue?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+  <a href="pratap.jadhav0@gmail.com"><img src="https://img.shields.io/badge/Email-pratap.jadhav0@gmail.com-red?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/pratap-jadhav-162996173/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Pratap%20Jadhav-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
 ---
@@ -23,6 +18,8 @@ readme_content = """
 ---
 
 🧰 **Tech Stack & Tools**
+
+> *Languages, Frameworks, Tools, and Platforms I work with*
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white"/>
@@ -76,19 +73,6 @@ readme_content = """
 
 ---
 
-📊 **GitHub Stats & Activity**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratapj8&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratapj8&theme=tokyonight" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratapj8&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 📫 **Let's Connect**
 
 - ✉️ Email: [pratap.jadhav0@gmail.com](mailto:pratap.jadhav0@gmail.com)  
@@ -99,8 +83,3 @@ readme_content = """
 <!---
 ✨ Fun fact: This README appears on my GitHub profile because it's a special repository named like my username.
 --->
-"""
-
-with open("README.md", "w") as f:
-    f.write(readme_content)
-print("README.md created successfully!")
