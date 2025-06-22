@@ -13,9 +13,14 @@
 🎯 **About Me**
 
 - 🧠 I’m a passionate **Data Scientist** with a strong academic foundation  
-- 🤖 I specialize in **Machine Learning**, **MLOps**, and **solving real-world problems** using data-driven approaches  
-- 💼 I'm driven by a love for **AI**, **business strategy**, and **technological innovation**
-- 🌱 Currently exploring: **Generative AI**, **MLOps**, and **Cloud-native AI apps**
+- 🤖 I specialize in **Machine Learning** and **solving real-world problems** using data-driven approaches  
+- 💼 I'm driven by a love for **AI**, **Business strategy**, and **Technological innovation**
+- 🌱 Currently exploring: **Generative AI**, **MLOps**,**Agentic AI** and **Cloud-native AI apps**
+
+- 🧠 I’m a passionate **Data Scientist** with a solid academic foundation
+- 🤖 I specialize in **Machine Learning** and **enjoy solving real-world problems** through data-driven approaches
+- 💼 I'm driven by a passion for **AI**, **Business strategy**, and **Technological innovation**
+- 🌱 Currently exploring: **Generative AI**, **MLOps**, **Agentic AI**, **Cloud-native AI apps**, **Computer Vision**, **Multimodal AI**, and **LLM-integrated systems**
 
 ---
 
@@ -70,7 +75,7 @@
 - **MLOps & DevOps:** Docker, MLflow, DVC, GitHub Actions, Git, DagsHub  
 - **Web & APIs:** Flask, Streamlit, Jinja2, HTML  
 - **ETL & Automation:** Airflow, Bash scripting, Logging, Requests  
-- **Cloud Platforms:** AWS (SageMaker, EC2, Boto3), GCP, Azure, KEDA, HPA  
+- **Cloud Platforms:** AWS (SageMaker, EC2, Boto3), GCP, Azure 
 - **CI/CD & Version Control:** Git, GitHub, GitHub Actions
 
 ---
