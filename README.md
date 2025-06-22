@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML Enthusiast | Business-Driven Data Scientist | Cloud & MLOps Explorer</h3>
 
 <p align="center">
-  <a href="mailto:pratap.jadhav0@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=pratap.jadhav0@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-pratap.jadhav0@gmail.com-red?style=flat-square&logo=gmail">
 </a>
   <a href="pratap.jadhav0@gmail.com"><img src="https://img.shields.io/badge/Email-pratap.jadhav0@gmail.com-red?style=flat-square&logo=gmail"></a>
