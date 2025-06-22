@@ -12,11 +12,6 @@
 
 🎯 **About Me**
 
-- 🧠 I’m a passionate **Data Scientist** with a strong academic foundation  
-- 🤖 I specialize in **Machine Learning** and **solving real-world problems** using data-driven approaches  
-- 💼 I'm driven by a love for **AI**, **Business strategy**, and **Technological innovation**
-- 🌱 Currently exploring: **Generative AI**, **MLOps**,**Agentic AI** and **Cloud-native AI apps**
-
 - 🧠 I’m a passionate **Data Scientist** with a solid academic foundation
 - 🤖 I specialize in **Machine Learning** and **enjoy solving real-world problems** through data-driven approaches
 - 💼 I'm driven by a passion for **AI**, **Business strategy**, and **Technological innovation**
