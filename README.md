@@ -2,6 +2,9 @@
 <h3 align="center">AI/ML Enthusiast | Business-Driven Data Scientist | Cloud & MLOps Explorer</h3>
 
 <p align="center">
+  <a href="mailto:pratap.jadhav0@gmail.com">
+  <img src="https://img.shields.io/badge/Email-pratap.jadhav0@gmail.com-red?style=flat-square&logo=gmail">
+</a>
   <a href="pratap.jadhav0@gmail.com"><img src="https://img.shields.io/badge/Email-pratap.jadhav0@gmail.com-red?style=flat-square&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/pratap-jadhav-162996173/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Pratap%20Jadhav-blue?style=flat-square&logo=linkedin"></a>
 </p>
