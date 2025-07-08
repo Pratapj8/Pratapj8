@@ -14,15 +14,11 @@
 
 - 🧠 I’m a passionate about **Data Science ,Business,AI,Computer Vision** with a solid academic foundation
 - 🤖 I specialize in **Machine Learning** and **enjoy solving real-world problems** through data-driven approaches
-> 💼 **These excite me** – **AI**, **Business**, and **Technological Innovation**
-- The sentence has a grammar issue and needs clarification. Here's the corrected version:
-
-
-
+- 💼 **These excite me** – **AI**, **Business**, and **Technological Innovation**
 - 🌱 Currently exploring: **Generative AI**, **MLOps**, **Agentic AI**, **Cloud-native AI apps**, **Computer Vision**, **Multimodal AI**,**ChatBots** and **LLM-integrated systems** with **HuggingFace🤗**
 
 ---
-🧰 **Tech Stack & Tools**
+### 🧰  **Tech Stack & Tools**
 
 > *Languages, Frameworks, Tools, and Platforms I work with*
 
