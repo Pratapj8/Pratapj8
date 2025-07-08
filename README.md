@@ -23,6 +23,49 @@
 
 > *Languages, Frameworks, Tools, and Platforms I work with*
 
+## 🧾 Badges
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-1f1f1f?style=flat&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=Jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Seaborn-005571?style=flat"/>
+  <img src="https://img.shields.io/badge/Plotly-3f4f75?style=flat&logo=plotly&logoColor=white"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-ffffff?style=flat&logo=xgboost&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/CatBoost-EE9B00?style=flat"/>
+  <img src="https://img.shields.io/badge/LightGBM-006400?style=flat"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DVC-945DD6?style=flat"/>
+  <img src="https://img.shields.io/badge/DagsHub-FFCE00?style=flat"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
+</p>
+
+_---- delete below
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white"/>
@@ -59,7 +102,7 @@
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
 </p>
-
+--- till this
 ---
 
 🚀 **Skills Summary**
