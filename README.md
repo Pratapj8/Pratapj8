@@ -18,6 +18,9 @@
 - 🌱 Currently exploring: **Generative AI**, **MLOps**, **Agentic AI**, **Cloud-native AI apps**, **Computer Vision**, **Multimodal AI**, and **LLM-integrated systems**
 
 ---
+🧰 **Tech Stack & Tools**
+
+> *Languages, Frameworks, Tools, and Platforms I work with*
 
 🖥️ **Operating Systems**
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"/>
@@ -40,6 +43,7 @@
 <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black"/>
 <img src="https://img.shields.io/badge/Seaborn-005571?style=flat"/>
 <img src="https://img.shields.io/badge/Statsmodels-343541?style=flat"/>
+<img src="https://img.shields.io/badge/Plotly-3f4f75?style=flat&logo=plotly&logoColor=white"/>
 
 🤖 **Machine Learning & Deep Learning**
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
@@ -85,65 +89,22 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
 
-
-🧰 **Tech Stack & Tools**
-
-> *Languages, Frameworks, Tools, and Platforms I work with*
-
-## 🧾 Badges
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-1f1f1f?style=flat&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=Jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Seaborn-005571?style=flat"/>
-  <img src="https://img.shields.io/badge/Plotly-3f4f75?style=flat&logo=plotly&logoColor=white"/>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XGBoost-ffffff?style=flat&logo=xgboost&logoColor=orange"/>
-  <img src="https://img.shields.io/badge/CatBoost-EE9B00?style=flat"/>
-  <img src="https://img.shields.io/badge/LightGBM-006400?style=flat"/>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DVC-945DD6?style=flat"/>
-  <img src="https://img.shields.io/badge/DagsHub-FFCE00?style=flat"/>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
-</p>
-
-
 ---
 
-🚀 **Skills Summary**
+### 🚀 **Skills Summary**
 
-- **Languages & Tools:** Python, SQL, Bash, MySQL, Jupyter, VS Code  
-- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn  
-- **ML/DL Frameworks:** Scikit-learn, XGBoost, CatBoost, TensorFlow, PyTorch  
-- **MLOps & DevOps:** Docker, MLflow, DVC, GitHub Actions, Git, DagsHub  
-- **Web & APIs:** Flask, Streamlit, Jinja2, HTML  
-- **ETL & Automation:** Airflow, Bash scripting, Logging, Requests  
-- **Cloud Platforms:** AWS (SageMaker, EC2, Boto3), GCP, Azure 
-- **CI/CD & Version Control:** Git, GitHub, GitHub Actions
+* **Operating Systems:** Windows, macOS
+* **Languages & Tools:** Python, SQL, Bash, Jupyter, VS Code
+* **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, Quadratic
+* **Experimentation & Statistical Testing:** A/B Testing, Hypothesis Testing, Statistical Significance
+* **Machine Learning & Deep Learning:** Scikit-learn, XGBoost, TensorFlow, PyTorch, LSTM, PCA, Ensemble Methods
+* **Natural Language Processing (NLP):** NLTK, Regex, WordNet, Prophet
+* **LLMs & Generative AI:** LangChain, FAISS, PyPDFLoader, Display, OpenAI API, Hugging Face
+* **MLOps & Monitoring:** MLflow, DVC, Docker, GitHub Actions, DagsHub, Prometheus, Grafana
+* **Web Development & APIs:** Flask, Streamlit, HTML, Jinja2, REST API, Logging
+* **ETL & Automation:** ETL Pipelines, Shell Scripting, Automation Tools
+* **Cloud Platforms:** AWS (EC2, S3, SageMaker, Glue, Lambda, CloudWatch), Azure
+* **Version Control & CI/CD:** Git, GitHub, GitHub Actions
 
 ---
 
