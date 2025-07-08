@@ -14,7 +14,7 @@
 
 - 🧠 I’m a passionate about **Data Science ,Business,AI,Computer Vision** with a solid academic foundation
 - 🤖 I specialize in **Machine Learning** and **enjoy solving real-world problems** through data-driven approaches
-- 💼 **These excite me** – **AI**, **Business**, and **Technological Innovation**
+- 💼 These excite me – **AI**, **Business**, and **Technological Innovation**
 - 🌱 Currently exploring: **Generative AI**, **MLOps**, **Agentic AI**, **Cloud-native AI apps**, **Computer Vision**, **Multimodal AI**,**ChatBots** and **LLM-integrated systems** with **HuggingFace🤗**
 
 ---
