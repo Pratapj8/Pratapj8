@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratap Jadhav</h1>
-<h3 align="center">AI/ML Enthusiast | Business-Driven Data Scientist | Cloud & MLOps Explorer</h3>
+<h3 align="center">AI/ML Enthusiast | Business-Driven | Cloud & MLOps Explorer</h3>
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&to=pratap.jadhav0@gmail.com" target="_blank">
