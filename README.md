@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pratap Jadhav</h1>
+<h1 align="center">Hi 👋, I'm Pratap</h1>
 <h3 align="center">AI/ML Enthusiast | Business-Driven | Cloud & MLOps Explorer</h3>
 
 <p align="center">
